@@ -1,0 +1,19 @@
+{
+  "name": "mappractice",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-gl-language": "^1.0.1",
+    "mapbox-gl": "^2.15.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.6"
+  }
+}
